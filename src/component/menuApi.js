@@ -1,0 +1,76 @@
+const Menu=[
+    {
+        id: 1,
+        name:"Maggi",
+        image:"images/Maggi.jpg",
+        category:"Breakfast",
+        price: 25,
+        decription: "take on pan heat water add noodles add maggi masala, stir well & your maggi is ready",
+        
+    },
+    {
+        id: 2,
+        name:"Pavbhaji",
+        image:"images/pavbhaji.jpg",
+        category:"lunch",
+        price: 25, 
+        decription:"Lorem 6", 
+    },
+    {
+        id: 3,
+        name:"vadapav",
+        image:"images/vadapav.jpg",
+        category:"Evining Snaks",
+        price: 35, 
+        decription: "demo", 
+    },
+    {
+        id: 4,
+        name:"Dosa",
+        image:"images/dosa.jpg",
+        category:"dinner",
+        price: 35, 
+        decription: "mytest", 
+    },
+    {
+        id: 5,
+        name:"paratha",
+        image:"images/paratha.jpg",
+        category:"dinner",
+        price: 35, 
+        decription: "mytest", 
+    },
+    {
+        id: 6,
+        name:"puri-bhaji",
+        image:"images/puri-bhaji.jpg",
+        category:"lunch",
+        price: 35, 
+        decription: "mytest", 
+    },
+    {
+        id: 7,
+        name:"idli-sambhar",
+        image:"images/idli-sambhar.jpg",
+        category:"Breakfast",
+        price: 35, 
+        decription: "mytest", 
+    },
+    {
+        id: 8,
+        name:"Dahivada",
+        image:"images/Dahivada.jpg",
+        category:"Breakfast",
+        price: 35, 
+        decription: "mytest", 
+    },
+    {
+        id: 9,
+        name:"Dal-Dhokli",
+        image:"images/dal-dhokli.jpg",
+        category:"Breakfast",
+        price: 35, 
+        decription: "mytest", 
+    }
+];
+export default Menu;
